@@ -1,39 +1,33 @@
-<h1 align="center">
-  <br>
-   Faded Badlands
-  <br>
-</h1>
+<h1 align="center">Faded Badlands</h1>
 
-<h4 align="center">A passionate, small-scale open-world adventure inspired by the atmosphere of Red Dead Redemption 2.</h4>
+<h4 align="center">A small-scale open-world adventure inspired by Red Dead Redemption 2.</h4>
 
 <p align="center">
-  <a href="#about-the-project">About</a> •
+  <a href="#about">About</a> •
   <a href="#features">Features</a> •
   <a href="#controls">Controls</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#development-journey">Development Journey</a>
+  <a href="#installation">Installation</a>
 </p>
 
+![Wild West Concept](https://images.unsplash.com/photo-1549646452-fbf1f5796c80?q=80&w=1200&auto=format&fit=crop)
 
-##  About The Project
+## About
 
-**Faded Badlands** (formerly *SIDE-PROJECT-*) is a solo-developed, small-scale open-world game born out of a deep love for the storytelling and environment of *Red Dead Redemption 2*. 
-
-As a beginner game developer, this project serves as my canvas to learn game design, environment building, and programming. It's not a massive AAA title, but rather a cozy, atmospheric slice of the wild west where every detail is crafted with passion and purpose.
+**Faded Badlands** is a solo-developed open-world game focused on environment design and atmosphere. Inspired by the narrative and setting of *Red Dead Redemption 2*, this project serves as a practical application of game design, physics, and programming concepts. It features a concentrated map designed to showcase fundamental open-world mechanics and environmental storytelling.
 
 ## Features
 
-- **Atmospheric Environment**: Explore a beautifully crafted, bite-sized wild west landscape.
-- **Riding & Exploration**: Traverse the dusty trails on horseback at your own pace.
-- **Dynamic Lighting**: Experience the changing colors of the frontier sky.
-- **Passion Project**: Built from the ground up by a solo dev learning the ropes.
+- **Exploration**: Navigate an open-world landscape on horseback.
+- **Dynamic Environment**: Features a continuous day/night cycle and shifting lighting conditions.
+- **Interactive Mechanics**: Core systems include player movement, riding, and basic world interaction.
+- **Scalable Design**: Built as a foundational framework for future mechanic implementation.
 
-##  Controls
+## Controls
 
-| Action | Key/Button |
-| ------ | ---------- |
+| Action | Key Binding |
+| ------ | ----------- |
 | Move | `W` `A` `S` `D` |
-| Look Around | `Mouse` |
+| Look | `Mouse` |
 | Interact | `E` |
 | Mount/Dismount | `F` |
 | Sprint | `Shift` |
@@ -44,18 +38,10 @@ As a beginner game developer, this project serves as my canvas to learn game des
    ```bash
    git clone https://github.com/AKSHIT1129/SIDE-PROJECT-.git
    ```
-2. Open the project in your Game Engine (e.g., Unity/Unreal).
-3. Open the main scene located in your Scenes folder.
-4. Hit **Play** to explore the world!
-
-## Development Journey
-
-This game is my very first foray into open-world game development. I started this project to challenge myself and learn the ins and outs of game logic, physics, and environmental design. 
-
-Feel free to explore the code, suggest improvements, or just ride around and enjoy the scenery. Feedback is always welcome as I continue to learn and grow as a developer!
+2. Import the project into your game engine.
+3. Open the primary scene located in the `Scenes` directory.
+4. Run the scene to start the application.
 
 ---
 
-<p align="center">
-  Build by <a href="https://github.com/AKSHIT1129">AKSHIT1129</a>
-</p>
+Developed by [AKSHIT1129](https://github.com/AKSHIT1129).
