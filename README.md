@@ -55,5 +55,5 @@ Feel free to explore the code, suggest improvements, or just ride around and enj
 ---
 
 <p align="center">
-  Build by <a href="https://github.com/AKSHIT1129">AKSHIT1129</a>
+  Developed by <a href="https://github.com/AKSHIT1129">AKSHIT1129</a>
 </p>
