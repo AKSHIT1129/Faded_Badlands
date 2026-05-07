@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  🐎 Faded Badlands
+   Faded Badlands
   <br>
 </h1>
 
@@ -14,22 +14,21 @@
   <a href="#development-journey">Development Journey</a>
 </p>
 
-![Wild West Concept](https://images.unsplash.com/photo-1549646452-fbf1f5796c80?q=80&w=1200&auto=format&fit=crop)
 
-## 🌵 About The Project
+##  About The Project
 
 **Faded Badlands** (formerly *SIDE-PROJECT-*) is a solo-developed, small-scale open-world game born out of a deep love for the storytelling and environment of *Red Dead Redemption 2*. 
 
 As a beginner game developer, this project serves as my canvas to learn game design, environment building, and programming. It's not a massive AAA title, but rather a cozy, atmospheric slice of the wild west where every detail is crafted with passion and purpose.
 
-## ✨ Features
+## Features
 
 - **Atmospheric Environment**: Explore a beautifully crafted, bite-sized wild west landscape.
 - **Riding & Exploration**: Traverse the dusty trails on horseback at your own pace.
 - **Dynamic Lighting**: Experience the changing colors of the frontier sky.
 - **Passion Project**: Built from the ground up by a solo dev learning the ropes.
 
-## 🎮 Controls
+##  Controls
 
 | Action | Key/Button |
 | ------ | ---------- |
@@ -39,7 +38,7 @@ As a beginner game developer, this project serves as my canvas to learn game des
 | Mount/Dismount | `F` |
 | Sprint | `Shift` |
 
-## 🚀 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -49,7 +48,7 @@ As a beginner game developer, this project serves as my canvas to learn game des
 3. Open the main scene located in your Scenes folder.
 4. Hit **Play** to explore the world!
 
-## 🛤️ Development Journey
+## Development Journey
 
 This game is my very first foray into open-world game development. I started this project to challenge myself and learn the ins and outs of game logic, physics, and environmental design. 
 
@@ -58,5 +57,5 @@ Feel free to explore the code, suggest improvements, or just ride around and enj
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/AKSHIT1129">AKSHIT1129</a>
+  Build by <a href="https://github.com/AKSHIT1129">AKSHIT1129</a>
 </p>
