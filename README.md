@@ -40,7 +40,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AKSHIT1129/SIDE-PROJECT-.git
+   git clone https://github.com/AKSHIT1129/Faded_Badlands-.git
    ```
 2. Open the project in your Game Engine (e.g., Unity/Unreal).
 3. Open the main scene located in your Scenes folder.
